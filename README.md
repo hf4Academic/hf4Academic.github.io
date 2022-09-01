@@ -1,2 +1,2 @@
-# This repo is forked from linyankai (linyankai.github.io)
+# Thanks for the template from linyankai (linyankai.github.io)
 # changhuapei.github.io
